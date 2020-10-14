@@ -1,5 +1,4 @@
-include Helpers
-require "json"
+
 When('I want to know all the pets in the clinic') do
    @pets_response= Helpers.call_get("api/pets")
    puts @pets_response.body
