@@ -39,6 +39,17 @@ Create BDD scenarios and execute them successfully for the following situations:
 * Add a new pet (Attention points: in order to have the correct information in the request body you need to first GET the owners details + GET a pet's category(id + name). Visits information are not mandatory, but the visits:[] Array needs to be in the request body)
 * Using scenario outline, create a vet for each of the specialities (the id of the speciality is required)
 
+In order to install all the necesary gems (ruby libraries) for this project you need to run the following commands in a terminal (which being located inside the project path):
+`gem install bundler`
+`bundle install`
+
+The second command will install all the dependencies/gems defined in the Gemfile
+
+You can run a scenario from the terminal/command line and being located in the project path with the following:
+
+`cucumber -t "@get_pets"`
+where `@get_pets` represents the tag you have added for you scenario
+
 ## Useful resources
 
 * https://itsadeliverything.com/declarative-vs-imperative-gherkin-scenarios-for-cucumber
