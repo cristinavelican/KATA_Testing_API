@@ -23,7 +23,7 @@ In this feature file you will add the BDD scenarios for the below requests
 ## Instructions
 
 Clone locally the repository from here:
-`https://github.com/spring-petclinic/spring-petclinic-rest`
+`https://github.com/cristinavelican/SpringPetClinicRest.git`
 In order to run it locally do the following:
 
 * open GitBash
