@@ -1,5 +1,11 @@
 # KATA\_Testing\_API
 
+## Prerequires
+
+*Install Ruby locally: https://stackify.com/install-ruby-on-windows-everything-you-need-to-get-going/
+*Install the bundler gem (command in the terminal : gem install bundler)
+*Go to the location of your newly cloned / downloaded framework and do a bundle install to install all the necessary gems
+
 ## Framework structure
 
 The below framework can be used for API automation, using Ruby and NET (a Ruby gem/library used for calling REST APIs)
