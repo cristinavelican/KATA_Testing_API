@@ -2,9 +2,9 @@
 
 ## Prerequires
 
-*Install Ruby locally: https://stackify.com/install-ruby-on-windows-everything-you-need-to-get-going/
-*Install the bundler gem (command in the terminal : gem install bundler)
-*Go to the location of your newly cloned / downloaded framework and do a bundle install to install all the necessary gems
+* Install Ruby locally: https://stackify.com/install-ruby-on-windows-everything-you-need-to-get-going/
+* Install the bundler gem (command in the terminal : gem install bundler)
+* Go to the location of your newly cloned / downloaded framework and do a bundle install to install all the necessary gems
 
 ## Framework structure
 
